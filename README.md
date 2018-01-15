@@ -12,5 +12,5 @@ javac rtlsdr2cfile.java
 
 ## Usage
 ```bash
-javac rtlsdr2cfile <input file> <output file>
+java rtlsdr2cfile <input file> <output file>
 ```
